@@ -15,7 +15,7 @@ Copy the folder NMMAINMUSIC into your Mods directory. You can place it in either
 How to change the song:
 
 -Your custom song must be a .wav file.
--Rename your file to: nmmainmusic.wav
+-Rename your file to: nmmainmusic
 -Place it here: Mods\NMMAINMUSIC\Audio
 -Start the game — your new track will now play in the main menu.
 
